@@ -43,10 +43,7 @@ FlowEx is a Chrome extension + director dashboard that connects your **coding ag
 ## 🖼️ Screenshots
 
 <p align="center">
-  <img src="docs/screenshot-1-login-ui-1280x800.png" alt="FlowEx login UI" width="85%">
-</p>
-<p align="center">
-  <img src="docs/screenshot-3-google-login-1280x800.png" alt="Sign in with Google" width="85%">
+  <img src="docs/screenshot-signup-ui.png" alt="FlowEx sign-up UI — Create Account & Send OTP" width="85%">
 </p>
 
 ## 🔒 Privacy
