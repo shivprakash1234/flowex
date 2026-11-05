@@ -2,11 +2,11 @@
   <img src="docs/marquee-1400x560.png" alt="FlowEx — AI Director // Unlimited Pro" width="100%">
 </p>
 
-<h1 align="center">FlowEx — AI Director for Google Flow</h1>
+<h1 align="center">FlowEx — Your Agent, Connected to Google Flow</h1>
 
 <p align="center">
-  <strong>Define Your FLOW. Own Your WORLD.</strong><br>
-  Connect your coding agent to Google Flow and direct cinematic images &amp; video from one beautiful dashboard.
+  <strong>Plug your AI agent straight into Google Flow — and create without limits.</strong><br>
+  Unlimited images. Cinematic videos. Ultra-speed generations. Download everything — free.
 </p>
 
 <p align="center">
@@ -17,20 +17,21 @@
 
 ---
 
-## ⚡ What is FlowEx?
+## ⚡ Why FlowEx?
 
-FlowEx is a Chrome extension + director dashboard that connects your **coding agent** to **Google Flow** through a local bridge running on your own machine. Sign in with Google in one click and start directing Flow's image & video engines — no API keys to manage, no extra passwords.
+- 🤖 **Agent-Connected** — your coding agent plugs directly into Google Flow and directs it for you
+- 🎬 **UNLIMITED Creations** — images & cinematic videos, no FlowEx caps, no paywalls
+- 🚀 **Ultra-Speed Generations** — prompt to render in seconds, not minutes
+- ⬇️ **Free Unlimited Downloads** — every creation is yours to keep, forever
+- 🔐 **1-Click Google Sign-In** — official OAuth. No API keys. No extra passwords. No fees.
 
-## ✨ Features
+## ✨ How It Works
 
-- **One-click Google sign-in** — official OAuth, no extra passwords
-- **Director-grade dashboard** — sign in, describe, create
-- **Local bridge (port 8791)** — your agent talks to Flow on *your* machine; your workflow stays yours
-- **Built for creators** who think in films, not prompts
+FlowEx is a Chrome extension + director dashboard that connects your **coding agent** to **Google Flow** through a local bridge on your own machine (port 8791). Sign in with Google once — then just describe what you want, and watch Flow's most elite image & video engines create it.
+
+**Define Your FLOW. Own Your WORLD.**
 
 ## ⬇️ Download & Install
-
-> FlowEx is distributed from this repository while the Chrome Web Store listing is in preparation.
 
 1. Download **`flowex-extension-v1.2.9.zip`** from the [latest release](../../releases/latest) (or from this repo's main page).
 2. Unzip it — you will get a folder containing `manifest.json`.
